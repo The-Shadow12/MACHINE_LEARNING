@@ -1,4 +1,4 @@
 # MACHINE_LEARNING
 
-> [!Nota]
+> [!NOTE]
 >Work In Progress
